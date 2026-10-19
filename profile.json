@@ -11,20 +11,21 @@
   "hero": {
     "greeting": "Привет, я",
     "name": "snowclobe",
-    "subtitle": "VPN-инфраструктура · Linux · домашняя автоматизация",
+    "subtitle": "Linux · OpenWrt · Proxmox",
     "typing": true,
     "avatarShape": "cookie12",
     "chips": [
-      { "icon": "shield_lock", "label": "VPN-инфраструктура" },
-      { "icon": "terminal", "label": "Linux · OpenWrt" }
+      { "icon": "brand:linux", "label": "Linux" },
+      { "icon": "brand:openwrt", "label": "OpenWrt" },
+      { "icon": "brand:proxmox", "label": "Proxmox" }
     ]
   },
   "about": {
     "title": "Обо мне",
     "items": [
-      { "icon": "vpn_lock", "label": "Развиваю VPN-инфраструктуру" },
-      { "icon": "dns", "label": "Работаю с Linux, OpenWrt и Proxmox" },
-      { "icon": "home", "label": "Автоматизирую дом с Home Assistant и Яндекс Алисой" }
+      { "icon": "brand:linux", "label": "Работаю с Linux" },
+      { "icon": "brand:openwrt", "label": "Настраиваю сети на OpenWrt" },
+      { "icon": "brand:proxmox", "label": "Использую виртуализацию Proxmox" }
     ]
   },
   "stack": {
@@ -36,13 +37,6 @@
           { "icon": "brand:linux", "label": "Linux" },
           { "icon": "brand:openwrt", "label": "OpenWrt" },
           { "icon": "brand:proxmox", "label": "Proxmox" }
-        ]
-      },
-      {
-        "title": "Автоматизация",
-        "items": [
-          { "icon": "brand:homeassistant", "label": "Home Assistant" },
-          { "icon": "home", "label": "Яндекс Алиса" }
         ]
       }
     ]
