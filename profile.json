@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "login": "snowclobe",
+  "seed": "#6750A4",
+  "seedFromAvatar": false,
+  "scheme": "expressive",
+  "motion": true,
+  "iconFill": true,
+  "order": ["hero", "about", "stack", "projects", "stats", "streak", "buttons", "wave", "socials"],
+  "hidden": ["socials"],
+  "hero": {
+    "greeting": "Привет, я",
+    "name": "snowclobe",
+    "subtitle": "VPN-инфраструктура · Linux · домашняя автоматизация",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      { "icon": "shield_lock", "label": "VPN-инфраструктура" },
+      { "icon": "terminal", "label": "Linux · OpenWrt" }
+    ]
+  },
+  "about": {
+    "title": "Обо мне",
+    "items": [
+      { "icon": "vpn_lock", "label": "Развиваю VPN-инфраструктуру" },
+      { "icon": "dns", "label": "Работаю с Linux, OpenWrt и Proxmox" },
+      { "icon": "home", "label": "Автоматизирую дом с Home Assistant и Яндекс Алисой" }
+    ]
+  },
+  "stack": {
+    "title": "Технологии",
+    "groups": [
+      {
+        "title": "Инфраструктура",
+        "items": [
+          { "icon": "brand:linux", "label": "Linux" },
+          { "icon": "brand:openwrt", "label": "OpenWrt" },
+          { "icon": "brand:proxmox", "label": "Proxmox" }
+        ]
+      },
+      {
+        "title": "Автоматизация",
+        "items": [
+          { "icon": "brand:homeassistant", "label": "Home Assistant" },
+          { "icon": "home", "label": "Яндекс Алиса" }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": ["rwanodecli", "zwm"],
+    "overrides": {},
+    "empty": "Описание пока не добавлено.",
+    "fork": "Форк"
+  },
+  "stats": {
+    "title": "Активность на GitHub",
+    "stars": "Получено звёзд",
+    "contributions": "Вкладов за год",
+    "repos": "Публичных репозиториев",
+    "followers": "Подписчиков",
+    "calendar": "Последние 21 день",
+    "weekdays": "ВПВСЧПС",
+    "languages": "Языки в публичных репозиториях",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Серия активности",
+    "current": "Текущая серия",
+    "longest": "Рекорд за год",
+    "days": "дн."
+  },
+  "socials": {
+    "items": [],
+    "variant": "chip",
+    "fill": "tonal",
+    "shape": "soft",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      { "icon": "book_2", "label": "Все репозитории", "url": "", "style": "tonal" }
+    ],
+    "card": true
+  }
+}
