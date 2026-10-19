@@ -2,7 +2,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=2e6dff4"><img src="assets/hero-light.svg?v=2e6dff4" width="100%" alt="Привет, я snowclobe"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg?v=2e6dff4"><img src="assets/about-light.svg?v=2e6dff4" width="100%" alt="Чем занимаюсь"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-2e6dff4-dark.svg"><img src="assets/about-2e6dff4-light.svg" width="100%" alt="Чем занимаюсь"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg?v=2e6dff4"><img src="assets/stack-light.svg?v=2e6dff4" width="100%" alt="Технологии"></picture>
 
