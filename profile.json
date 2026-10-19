@@ -21,11 +21,11 @@
     ]
   },
   "about": {
-    "title": "Обо мне",
+    "title": "Чем занимаюсь",
     "items": [
-      { "icon": "brand:linux", "label": "Работаю с Linux" },
-      { "icon": "brand:openwrt", "label": "Настраиваю сети на OpenWrt" },
-      { "icon": "brand:proxmox", "label": "Использую виртуализацию Proxmox" }
+      { "icon": "brand:linux", "label": "Администрирую Linux-системы" },
+      { "icon": "brand:proxmox", "label": "Разворачиваю виртуальные среды в Proxmox" },
+      { "icon": "brand:openwrt", "label": "Настраиваю маршрутизацию и сети в OpenWrt" }
     ]
   },
   "stack": {
