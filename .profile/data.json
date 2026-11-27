@@ -1,5 +1,5 @@
 {
- "key": "da718ee3",
+ "key": "ca533542",
  "stars": 5,
  "contributions": 29,
  "repos": 4,
@@ -125,9 +125,13 @@
    {
     "c": 0,
     "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
     "today": true
    },
-   null,
    null
   ]
  ],
