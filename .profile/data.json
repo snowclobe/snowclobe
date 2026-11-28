@@ -1,5 +1,5 @@
 {
- "key": "ca533542",
+ "key": "ba34dba1",
  "stars": 5,
  "contributions": 29,
  "repos": 4,
@@ -130,9 +130,13 @@
    {
     "c": 0,
     "day": 27,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 28,
+    "today": true
+   }
   ]
  ],
  "streak": {
